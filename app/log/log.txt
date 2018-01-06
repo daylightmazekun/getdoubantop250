@@ -1,0 +1,1108 @@
+2018-01-06 23:39:59,990 - connectionpool.py[line:214] - INFO: Starting new HTTP connection (1): movie.douban.com
+2018-01-06 23:40:00,063 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:01,453 - __init__.py[line:46] - INFO: 肖申克的救赎
+2018-01-06 23:40:01,456 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:03,062 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F1o29ui77e85grdr.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:03,062 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008593.html&subtype=2&type=online-video
+2018-01-06 23:40:03,062 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMjgwNDkwNzE2.html&subtype=3&type=online-video
+2018-01-06 23:40:03,062 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra0h3wg.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:03,063 - __init__.py[line:46] - INFO: 霸王别姬
+2018-01-06 23:40:03,065 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:04,427 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho3150.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:04,427 - __init__.py[line:46] - INFO: 这个杀手不太冷
+2018-01-06 23:40:04,430 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:05,823 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ffvue88y1fsnk4w2.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:05,825 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F26312597.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:40:05,825 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FaDcQjvZczApt61M.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:40:05,825 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho32zk.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:40:05,825 - __init__.py[line:46] - INFO: 阿甘正传
+2018-01-06 23:40:05,826 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:07,339 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fr6hc2kqgvnmiejn.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:07,339 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk3u264.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:07,339 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMzMDI2NjUzNg%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:40:07,339 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1675789.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:40:07,339 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F1068%2F742467.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:07,341 - __init__.py[line:46] - INFO: 美丽人生
+2018-01-06 23:40:07,342 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:08,640 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F1weku8f23n0j12s.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:08,640 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F8329690.html&subtype=2&type=online-video
+2018-01-06 23:40:08,640 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjqfdbc.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:08,641 - __init__.py[line:46] - INFO: 千与千寻
+2018-01-06 23:40:08,641 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:09,756 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrm9abt8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:09,756 - __init__.py[line:46] - INFO: 辛德勒的名单
+2018-01-06 23:40:09,759 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:11,157 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzU2MjYwNzQ0.html&subtype=3&type=online-video
+2018-01-06 23:40:11,157 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhx0z4o.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:11,157 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FEc0Jhu5UxAJl40s.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:40:11,157 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fdr37tbvercpqsko.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:11,157 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F47787%2F1751534.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:11,157 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F2061364.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:40:11,157 - __init__.py[line:46] - INFO: 泰坦尼克号
+2018-01-06 23:40:11,161 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:12,311 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ft5jqhgw8pix81mw.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:12,311 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNDQ5OTM1Nzcy.html&subtype=3&type=online-video
+2018-01-06 23:40:12,311 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F49027%2F592751.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:12,312 - __init__.py[line:46] - INFO: 盗梦空间
+2018-01-06 23:40:12,313 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:13,861 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fh0meep6p766jgqh.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:13,862 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1009508.html&subtype=2&type=online-video
+2018-01-06 23:40:13,862 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra64i9c.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:13,862 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMjI4OTQ0MDky.html&subtype=3&type=online-video
+2018-01-06 23:40:13,862 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F110220%2F1140643.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:13,864 - __init__.py[line:46] - INFO: 机器人总动员
+2018-01-06 23:40:13,865 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:15,081 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fvqeduf4egjyrc8w.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:15,082 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTQxOTY4NDc0NA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:40:15,082 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F26879846.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:40:15,082 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FjQfpZs40pOJFwys.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:40:15,082 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrifmfgn.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:15,082 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F156436%2F1704695.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:15,082 - __init__.py[line:46] - INFO: 海上钢琴师
+2018-01-06 23:40:15,084 - __init__.py[line:46] - INFO: 三傻大闹宝莱坞
+2018-01-06 23:40:15,085 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:16,079 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk7emcg.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:40:16,079 - __init__.py[line:46] - INFO: 忠犬八公的故事
+2018-01-06 23:40:16,082 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:17,065 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzA1MTgyNzM2.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:40:17,065 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrmy5sf4.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:40:17,065 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F44559%2F517842.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:17,065 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fvb1t9npga3tha8d.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:17,065 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1343972.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:40:17,065 - __init__.py[line:46] - INFO: 放牛班的春天
+2018-01-06 23:40:17,068 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:18,118 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMjk3NjM5NjIwNA%3D%3D.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:40:18,118 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrj5w9vs.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:40:18,118 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FvhPta9M5qedKyDA.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:40:18,119 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F26313237.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:40:18,119 - __init__.py[line:46] - INFO: 大话西游之大圣娶亲
+2018-01-06 23:40:18,121 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:19,082 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ffse52rd4klx7qn2.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:19,082 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrkqj66k.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:19,084 - __init__.py[line:46] - INFO: 教父
+2018-01-06 23:40:19,085 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:19,944 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fx90v161tdg3lrzl.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:19,946 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1948483.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:40:19,946 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrg3726w.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:19,946 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMzMDMxMTI2OA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:40:19,946 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F56362%2F745367.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:19,946 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F9003747.html&subtype=2&type=online-video
+2018-01-06 23:40:19,947 - __init__.py[line:46] - INFO: 龙猫
+2018-01-06 23:40:19,947 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:21,427 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrmg94k0.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:21,427 - __init__.py[line:46] - INFO: 楚门的世界
+2018-01-06 23:40:21,430 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:22,921 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMyMzc3NDQwNA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:40:22,921 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk3u9wg.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:22,921 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F8403%2F300643.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:22,921 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1573166.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:40:22,921 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F31082i4u5ovkrl0.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:22,923 - __init__.py[line:46] - INFO: 乱世佳人
+2018-01-06 23:40:22,924 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:24,520 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fgzdq4acw02m3ajs.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:24,522 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjba8ec.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:24,522 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F246.html&subtype=2&type=online-video
+2018-01-06 23:40:24,522 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNzc0MjY3MzE2.html&subtype=3&type=online-video
+2018-01-06 23:40:24,523 - __init__.py[line:46] - INFO: 熔炉
+2018-01-06 23:40:24,523 - __init__.py[line:46] - INFO: 触不可及
+2018-01-06 23:40:24,526 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:29,223 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rro5xdxw.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:29,223 - __init__.py[line:46] - INFO: 天堂电影院
+2018-01-06 23:40:29,226 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:30,703 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho6qm0.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:40:30,703 - __init__.py[line:46] - INFO: 当幸福来敲门
+2018-01-06 23:40:30,704 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:32,043 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fvbr7hkoebjpsrxb.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:32,043 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk3nlys.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:32,043 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008633.html&subtype=2&type=online-video
+2018-01-06 23:40:32,043 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNDM4NTc3OTM2.html&subtype=3&type=online-video
+2018-01-06 23:40:32,043 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1505422.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:40:32,043 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F8736%2F305620.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:32,045 - __init__.py[line:46] - INFO: 无间道
+2018-01-06 23:40:32,046 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:33,339 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjdhoug.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:33,341 - __init__.py[line:46] - INFO: 星际穿越
+2018-01-06 23:40:33,342 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:34,466 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fc2seabnsfozypl8.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:34,467 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rr7qhp7c.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:34,467 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XODkzNzA4ODM2.html&subtype=3&type=online-video
+2018-01-06 23:40:34,503 - connectionpool.py[line:214] - INFO: Starting new HTTP connection (1): movie.douban.com
+2018-01-06 23:40:34,571 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:35,177 - __init__.py[line:46] - INFO: 十二怒汉
+2018-01-06 23:40:35,177 - __init__.py[line:46] - INFO: 怦然心动
+2018-01-06 23:40:35,178 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:36,078 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMjg3OTc2MDU2.html&subtype=3&type=online-video
+2018-01-06 23:40:36,078 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008630.html&subtype=2&type=online-video
+2018-01-06 23:40:36,078 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra10k7w.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:36,078 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F997m2fipgc6erv7.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:36,078 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F151513%2F1526157.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:36,078 - __init__.py[line:46] - INFO: 搏击俱乐部
+2018-01-06 23:40:36,079 - __init__.py[line:46] - INFO: 指环王3：王者无敌
+2018-01-06 23:40:36,081 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:37,530 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ftphyx6noqtfv27x.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:37,530 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra68crs.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:37,530 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fh%2F101059.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:37,532 - __init__.py[line:46] - INFO: 少年派的奇幻漂流
+2018-01-06 23:40:37,533 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:38,667 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fphncvm1ns0sygig.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:38,667 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjv4kz0.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:38,667 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F25667818.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:40:38,668 - __init__.py[line:46] - INFO: 鬼子来了
+2018-01-06 23:40:38,670 - __init__.py[line:46] - INFO: 蝙蝠侠：黑暗骑士
+2018-01-06 23:40:38,671 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:39,812 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fw7vmjen1fzoeygx.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:39,812 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjQ5Nzk4Njg4.html&subtype=3&type=online-video
+2018-01-06 23:40:39,812 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008649.html&subtype=2&type=online-video
+2018-01-06 23:40:39,812 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra6zong.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:39,812 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F110227%2F1140670.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:39,813 - __init__.py[line:46] - INFO: 天空之城
+2018-01-06 23:40:39,813 - __init__.py[line:46] - INFO: 活着
+2018-01-06 23:40:39,815 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:40,816 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F20053322.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:40:40,818 - __init__.py[line:46] - INFO: 罗马假日
+2018-01-06 23:40:40,819 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:41,918 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F4nxabytt44ngpry.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:41,918 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk3rbyg.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:41,918 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2Fo2YicvSWLibzmcGoI.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:40:41,918 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F7593%2F1505068.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:41,918 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F419.html&subtype=2&type=online-video
+2018-01-06 23:40:41,920 - __init__.py[line:46] - INFO: 大话西游之月光宝盒
+2018-01-06 23:40:41,921 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:42,821 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTk3MjA3NjA4.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:40:42,822 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.qq.com%2Fcover%2Fy%2Fy73nvftv7d1rqci.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:42,822 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rriflhue.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:42,822 - __init__.py[line:46] - INFO: 飞屋环游记
+2018-01-06 23:40:42,823 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:43,742 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTQxOTY1NTY5Ng%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:40:43,742 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrifmej5.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:43,743 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FYSwZlic9l1RN29Fw.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:40:43,743 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F8021%2F1772177.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:43,743 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fw9gk2xdkyvez6yp.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:43,743 - __init__.py[line:46] - INFO: 两杆大烟枪
+2018-01-06 23:40:43,744 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:44,596 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk3zxd4.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:44,596 - __init__.py[line:46] - INFO: 窃听风暴
+2018-01-06 23:40:44,598 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:45,509 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMjUzNTEzMjc4MA%3D%3D.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:40:45,509 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fih84bi86nzujfs5.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:45,509 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FgFwjoQlv3x2AicmY.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:40:45,510 - __init__.py[line:46] - INFO: 飞越疯人院
+2018-01-06 23:40:45,512 - __init__.py[line:46] - INFO: 海豚湾
+2018-01-06 23:40:45,513 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:46,687 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNDQ5ODgxNDYw.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:40:46,687 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F1fl91giyegazfl4.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:46,687 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1740308.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:40:46,687 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.hunantv.com%2Fv%2F3%2F12111%2F&subtype=7&type=online-video&link2key=9cc007792e
+2018-01-06 23:40:46,688 - __init__.py[line:46] - INFO: 闻香识女人
+2018-01-06 23:40:46,690 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:47,655 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzUzMzM5ODU2.html&subtype=3&type=online-video
+2018-01-06 23:40:47,657 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fxv0kqtauy4972gp.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:47,657 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FbwicGRa0Tg8Ekogo.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:40:47,657 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhwtpa4.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:47,657 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F2059328.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:40:47,657 - __init__.py[line:46] - INFO: 控方证人
+2018-01-06 23:40:47,658 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:48,664 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrmx5ix4.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:48,664 - __init__.py[line:46] - INFO: V字仇杀队
+2018-01-06 23:40:48,665 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:49,510 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fw7hkwrou304fmze.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:49,510 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008706.html&subtype=2&type=online-video
+2018-01-06 23:40:49,510 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rr9w5yo8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:49,512 - __init__.py[line:46] - INFO: 哈尔的移动城堡
+2018-01-06 23:40:49,513 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:50,533 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrmg3fsw.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:50,535 - __init__.py[line:46] - INFO: 疯狂动物城
+2018-01-06 23:40:50,536 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:52,029 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ffhe2h7sop52qzza.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:52,029 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrluwf4o.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:52,029 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F293403%2F3167500.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:52,029 - __init__.py[line:46] - INFO: 教父2
+2018-01-06 23:40:52,030 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:53,046 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTY4ODA5NTk3Mg%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:40:53,046 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F9003745.html&subtype=2&type=online-video
+2018-01-06 23:40:53,046 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F6732%2F1503312.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:53,046 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fc2f26xjegzuyi16.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:53,046 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrg3joh0.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:53,046 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1948674.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:40:53,048 - __init__.py[line:46] - INFO: 死亡诗社
+2018-01-06 23:40:53,049 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:54,013 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjI3NDA5MzQ4.html&subtype=3&type=online-video
+2018-01-06 23:40:54,013 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F21111820.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:40:54,013 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjblpq8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:54,013 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fvpbpk93xbkkwa8q.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:54,015 - __init__.py[line:46] - INFO: 美丽心灵
+2018-01-06 23:40:54,016 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:55,719 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fle1y6ytqnnd2ua2.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:55,720 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMyNjMwMzgyNA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:40:55,720 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrnppl5w.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:55,720 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1960586.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:40:55,720 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F157546%2F1734460.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:55,720 - __init__.py[line:46] - INFO: 指环王2：双塔奇兵
+2018-01-06 23:40:55,723 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:57,016 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fe2rt42iw6cv1ndq.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:57,016 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra68cjk.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:57,016 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fh%2F101058.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:57,055 - connectionpool.py[line:214] - INFO: Starting new HTTP connection (1): movie.douban.com
+2018-01-06 23:40:57,128 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:57,642 - __init__.py[line:46] - INFO: 指环王1：魔戒再现
+2018-01-06 23:40:57,657 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:40:58,857 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F5jnb4fae4hzic9g.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:40:58,857 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fh%2F101057.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:40:58,858 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra68glc.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:40:58,858 - __init__.py[line:46] - INFO: 辩护人
+2018-01-06 23:40:58,859 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:00,013 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XOTA1MjI4Mzk2.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:41:00,013 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F50618%2F623582.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:00,013 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FYEiaxLpb8bKoNiaicM.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:41:00,013 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrn7o17k.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:41:00,016 - __init__.py[line:46] - INFO: 情书
+2018-01-06 23:41:00,016 - __init__.py[line:46] - INFO: 饮食男女
+2018-01-06 23:41:00,017 - __init__.py[line:46] - INFO: 美国往事
+2018-01-06 23:41:00,019 - __init__.py[line:46] - INFO: 天使爱美丽
+2018-01-06 23:41:00,020 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:00,944 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XODQ5OTc4Mjc2.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:41:00,944 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F26354358.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:41:00,944 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fo9ltjk5yc26z6w9.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:00,944 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho2cmo.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:41:00,944 - __init__.py[line:46] - INFO: 钢琴家
+2018-01-06 23:41:00,946 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:02,453 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNzMxODYxNDYw.html&subtype=3&type=online-video
+2018-01-06 23:41:02,453 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho71bg.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:02,453 - __init__.py[line:46] - INFO: 狮子王
+2018-01-06 23:41:02,454 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:03,924 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Flh4cj69w87hfodz.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:03,924 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrifn8e4.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:03,924 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FkwHjYMguntwicvSU.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:41:03,924 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTQxOTgyMjEyOA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:41:03,924 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F109370%2F1129336.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:03,924 - __init__.py[line:46] - INFO: 七宗罪
+2018-01-06 23:41:03,927 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:04,969 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fzg7bhyyc1ffeha0.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:04,969 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrantxz0.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:04,970 - __init__.py[line:46] - INFO: 被嫌弃的松子的一生
+2018-01-06 23:41:04,971 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:05,943 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F2xxvt9eg1d231wv.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:05,944 - __init__.py[line:46] - INFO: 致命魔术
+2018-01-06 23:41:05,946 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:07,868 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNTE5OTUyNTQ4.html&subtype=3&type=online-video
+2018-01-06 23:41:07,868 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F110075%2F1138943.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:07,868 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra04xok.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:07,868 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fyjko7f1b1muwdhe.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:07,868 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1001592.html&subtype=2&type=online-video
+2018-01-06 23:41:07,871 - __init__.py[line:46] - INFO: 小鞋子
+2018-01-06 23:41:07,875 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:09,594 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fab66o4bl2p67wv7.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:09,594 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjraeeo.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:09,595 - __init__.py[line:46] - INFO: 素媛
+2018-01-06 23:41:09,595 - __init__.py[line:46] - INFO: 勇敢的心
+2018-01-06 23:41:09,598 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:11,096 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F90hxh48sphptr0j.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:11,096 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk1ymus.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:11,096 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzMyMjk4OTMy.html&subtype=3&type=online-video
+2018-01-06 23:41:11,096 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F22893681.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:41:11,098 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F108374%2F1116249.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:11,098 - __init__.py[line:46] - INFO: 剪刀手爱德华
+2018-01-06 23:41:11,099 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:12,302 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fstnv37gf9fye063.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:12,302 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F108316%2F1115520.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:12,303 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk1k0is.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:12,303 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzMyMzI2Mzgw.html&subtype=3&type=online-video
+2018-01-06 23:41:12,303 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F22932870.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:41:12,305 - __init__.py[line:46] - INFO: 音乐之声
+2018-01-06 23:41:12,308 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:13,717 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzMyMzM1ODgw.html&subtype=3&type=online-video
+2018-01-06 23:41:13,719 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjxerwg.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:13,719 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fnlzswcxr4umy1fr.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:13,719 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F8447068.html&subtype=2&type=online-video
+2018-01-06 23:41:13,720 - __init__.py[line:46] - INFO: 低俗小说
+2018-01-06 23:41:13,723 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:14,983 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Feinghaeb1shgwf2.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:14,983 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjrbafs.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:14,983 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F7118419.html&subtype=2&type=online-video
+2018-01-06 23:41:14,983 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fh%2F158541.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:14,986 - __init__.py[line:46] - INFO: 本杰明·巴顿奇事
+2018-01-06 23:41:14,989 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:16,398 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F5y07fkhxzj48wcj.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:16,398 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra6pojw.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:16,398 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F45841%2F542253.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:16,398 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008700.html&subtype=2&type=online-video
+2018-01-06 23:41:16,400 - __init__.py[line:46] - INFO: 黑客帝国
+2018-01-06 23:41:16,401 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:17,588 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fmpy4fba3x6puvfy.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:17,588 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzI3NDE4MTgw.html&subtype=3&type=online-video
+2018-01-06 23:41:17,588 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra84w3o.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:17,588 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008666.html&subtype=2&type=online-video
+2018-01-06 23:41:17,596 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F110224%2F1140655.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:17,598 - __init__.py[line:46] - INFO: 沉默的羔羊
+2018-01-06 23:41:17,602 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:18,614 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho2d58.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:18,614 - __init__.py[line:46] - INFO: 西西里的美丽传说
+2018-01-06 23:41:18,617 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:19,605 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F9056554.html&subtype=2&type=online-video
+2018-01-06 23:41:19,605 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrh1gubo.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:19,605 - __init__.py[line:46] - INFO: 拯救大兵瑞恩
+2018-01-06 23:41:19,607 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:21,335 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMzNTQ2Mzc2NA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:41:21,335 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F104034%2F1770210.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:21,335 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrnpp9co.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:21,335 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2Fxb8joAhu3hxicicWU.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:41:21,335 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F8lv03zh9yuhm1a2.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:21,335 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F26734197.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:41:21,336 - __init__.py[line:46] - INFO: 入殓师
+2018-01-06 23:41:21,341 - __init__.py[line:46] - INFO: 蝴蝶效应
+2018-01-06 23:41:21,344 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:22,904 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fporrg8osobrmvs8.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:22,904 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F26917825.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:41:22,905 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rr9vvdok.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:22,905 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNTkxODE4Njc2.html&subtype=3&type=online-video
+2018-01-06 23:41:22,905 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008680.html&subtype=2&type=online-video
+2018-01-06 23:41:22,907 - __init__.py[line:46] - INFO: 玛丽和马克思
+2018-01-06 23:41:22,911 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:24,132 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fb49nto261rv2a14.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:24,134 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1724739.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:41:24,209 - connectionpool.py[line:214] - INFO: Starting new HTTP connection (1): movie.douban.com
+2018-01-06 23:41:24,292 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:25,042 - __init__.py[line:46] - INFO: 让子弹飞
+2018-01-06 23:41:25,046 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:26,394 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Frzpyce9pmxayzvb.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:26,394 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjc7kag.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:41:26,395 - __init__.py[line:46] - INFO: 春光乍泄
+2018-01-06 23:41:26,397 - __init__.py[line:46] - INFO: 心灵捕手
+2018-01-06 23:41:26,400 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:27,513 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fmhl665xf8ina3t2.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:27,513 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F7118314.html&subtype=2&type=online-video
+2018-01-06 23:41:27,513 - __init__.py[line:46] - INFO: 大闹天宫
+2018-01-06 23:41:27,516 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:28,500 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F63hlfa8yfrs1yza.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:28,500 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrkq3mxk.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:28,502 - __init__.py[line:46] - INFO: 幽灵公主
+2018-01-06 23:41:28,503 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:29,542 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrmgbhys.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:29,543 - __init__.py[line:46] - INFO: 阳光灿烂的日子
+2018-01-06 23:41:29,545 - __init__.py[line:46] - INFO: 第六感
+2018-01-06 23:41:29,546 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:30,598 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjI3MzgwNDM2.html&subtype=3&type=online-video
+2018-01-06 23:41:30,598 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FT3VY1ziblFVO2NJw.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:41:30,599 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjbsozo.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:30,601 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F21196571.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:41:30,601 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fr59i2am7z2pg81w.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:30,601 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F306858%2F3689037.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:30,602 - __init__.py[line:46] - INFO: 重庆森林
+2018-01-06 23:41:30,604 - __init__.py[line:46] - INFO: 大鱼
+2018-01-06 23:41:30,607 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:31,913 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fmbtiy3litj9olls.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:31,913 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNDM4NjAxMDQw.html&subtype=3&type=online-video
+2018-01-06 23:41:31,913 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk2zt34.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:31,913 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1006835.html&subtype=2&type=online-video
+2018-01-06 23:41:31,914 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F46755%2F555336.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:31,914 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1744944.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:41:31,914 - __init__.py[line:46] - INFO: 看不见的客人
+2018-01-06 23:41:31,915 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:33,223 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F8lvnb7aiio1crpd.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:33,223 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzE1MDk4MjQyNA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:41:33,223 - __init__.py[line:46] - INFO: 禁闭岛
+2018-01-06 23:41:33,229 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:35,206 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMzODU5MTA4MA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:41:35,206 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F23013048.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:41:35,206 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk3nll8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:35,206 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F1067%2F745381.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:35,206 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fv6nwjtseqb43ots.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:35,207 - __init__.py[line:46] - INFO: 射雕英雄传之东成西就
+2018-01-06 23:41:35,207 - __init__.py[line:46] - INFO: 末代皇帝
+2018-01-06 23:41:35,210 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:36,739 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzE3NjIzMjUyOA%3D%3D.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:41:36,740 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rr7mmql0.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:36,740 - __init__.py[line:46] - INFO: 甜蜜蜜
+2018-01-06 23:41:36,740 - __init__.py[line:46] - INFO: 狩猎
+2018-01-06 23:41:36,743 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:38,157 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNTg2NDAwMjQ0.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:41:38,158 - __init__.py[line:46] - INFO: 一一
+2018-01-06 23:41:38,160 - __init__.py[line:46] - INFO: 阳光姐妹淘
+2018-01-06 23:41:38,161 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:39,299 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FvyiaibPaULe7kcmgI.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:41:39,299 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F25915991.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:41:39,299 - __init__.py[line:46] - INFO: 致命ID
+2018-01-06 23:41:39,302 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:40,434 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1572834.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:41:40,434 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk30rh0.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:40,434 - __init__.py[line:46] - INFO: 上帝之城
+2018-01-06 23:41:40,436 - __init__.py[line:46] - INFO: 布达佩斯大饭店
+2018-01-06 23:41:40,437 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:41,448 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhxz45s.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:41,448 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F52849%2F671846.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:41,450 - __init__.py[line:46] - INFO: 告白
+2018-01-06 23:41:41,450 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:42,474 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho79w8.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:41:42,474 - __init__.py[line:46] - INFO: 断背山
+2018-01-06 23:41:42,476 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:43,588 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F5hplbnckbsa5mgv.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:43,588 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzU2MjU4ODgw.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:41:43,588 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F50492%2F4070646.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:43,588 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F20946958.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:41:43,588 - __init__.py[line:46] - INFO: 加勒比海盗
+2018-01-06 23:41:43,592 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:44,911 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjI0Nzg1NDg4.html&subtype=3&type=online-video
+2018-01-06 23:41:44,911 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FhyADgOhOvvxf3UU.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:41:44,911 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F21178793.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:41:44,911 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F6bxb2yc7mskrdoz.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:44,911 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjcf6xw.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:44,911 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F109409%2F1129490.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:44,911 - __init__.py[line:46] - INFO: 哈利·波特与魔法石
+2018-01-06 23:41:44,914 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:47,265 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fpb69zpzabgg1t7n.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:47,265 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrifgoyw.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:47,265 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F9426889.html&subtype=2&type=online-video
+2018-01-06 23:41:47,266 - __init__.py[line:46] - INFO: 猫鼠游戏
+2018-01-06 23:41:47,269 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:48,895 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fwtwpu1rqpe427mw.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:48,895 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F9001522.html&subtype=2&type=online-video
+2018-01-06 23:41:48,895 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMyNjIxNzM4OA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:41:48,895 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F157616%2F1735758.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:41:48,897 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrmxplc8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:48,897 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F23030436.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:41:48,940 - connectionpool.py[line:214] - INFO: Starting new HTTP connection (1): movie.douban.com
+2018-01-06 23:41:49,013 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:49,868 - __init__.py[line:46] - INFO: 摩登时代
+2018-01-06 23:41:49,871 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:51,118 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F9w35g1rr7w3smmr.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:51,118 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ftv.sohu.com%2F20090213%2Fn262230436.shtml&subtype=2&type=online-video
+2018-01-06 23:41:51,118 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrj6sjrw.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:41:51,118 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1563088.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:41:51,119 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FxGlT0TmfD02wLpY.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:41:51,119 - __init__.py[line:46] - INFO: 爱在黎明破晓前
+2018-01-06 23:41:51,121 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:52,239 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNTkyNDgzNTM2.html&subtype=3&type=online-video
+2018-01-06 23:41:52,239 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra0khao.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:52,239 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F2773.html&subtype=2&type=online-video
+2018-01-06 23:41:52,239 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F7ci0ax0zwtztdot.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:52,240 - __init__.py[line:46] - INFO: 阿凡达
+2018-01-06 23:41:52,240 - __init__.py[line:46] - INFO: 穿条纹睡衣的男孩
+2018-01-06 23:41:52,243 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:53,332 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fk2zh09k7oid23o0.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:53,334 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjAzOTYxNTEy.html&subtype=3&type=online-video
+2018-01-06 23:41:53,334 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjqdjlw.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:53,334 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F7114763.html&subtype=2&type=online-video
+2018-01-06 23:41:53,334 - __init__.py[line:46] - INFO: 风之谷
+2018-01-06 23:41:53,335 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:54,755 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrmg85dk.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:54,756 - __init__.py[line:46] - INFO: 爱在日落黄昏时
+2018-01-06 23:41:54,759 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:55,755 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F9q1fcwkoeem19d5.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:41:55,755 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008655.html&subtype=2&type=online-video
+2018-01-06 23:41:55,755 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjba7jk.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:55,756 - __init__.py[line:46] - INFO: 消失的爱人
+2018-01-06 23:41:55,759 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:57,063 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XOTE0NjI1MDcy.html&subtype=3&type=online-video
+2018-01-06 23:41:57,063 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.hunantv.com%2Fv%2F3%2F100245%2F&subtype=7&type=online-video&link2key=add0f4536b
+2018-01-06 23:41:57,063 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rr8vwhi4.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:57,065 - __init__.py[line:46] - INFO: 侧耳倾听
+2018-01-06 23:41:57,066 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:58,259 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrmg7ys8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:58,259 - __init__.py[line:46] - INFO: 萤火虫之墓
+2018-01-06 23:41:58,263 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:41:59,286 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhochc8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:41:59,288 - __init__.py[line:46] - INFO: 超脱
+2018-01-06 23:41:59,290 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:00,361 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNTExNjY3NDU2.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:42:00,361 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F100587%2F1135375.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:00,361 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjy9aic.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:42:00,362 - __init__.py[line:46] - INFO: 驯龙高手
+2018-01-06 23:42:00,365 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:01,614 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMyMzkyMDE0MA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:42:01,615 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FRYpY1ziblFVO2NJw.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:42:01,615 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrmugvis.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:01,615 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F3imeqzq7nzw130g.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:01,615 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F311447%2F3807076.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:01,615 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F23065179.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:42:01,615 - __init__.py[line:46] - INFO: 倩女幽魂
+2018-01-06 23:42:01,618 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:02,750 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fcover%2Fi%2Fifkyvtji4a4a5hl.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:02,750 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FF7unJY3zY6EEguo.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:42:02,750 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1596240.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:42:02,750 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F56954%2F758136.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:02,750 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk60uus.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:42:02,752 - __init__.py[line:46] - INFO: 红辣椒
+2018-01-06 23:42:02,752 - __init__.py[line:46] - INFO: 恐怖直播
+2018-01-06 23:42:02,753 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:03,987 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNzExMDU3ODAw.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:42:03,989 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F26952506.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:42:03,990 - __init__.py[line:46] - INFO: 菊次郎的夏天
+2018-01-06 23:42:03,990 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:05,546 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XODc1ODc2NjEy.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:42:05,546 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F102514%2F1038573.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:05,546 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrn8d6vc.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:05,548 - __init__.py[line:46] - INFO: 幸福终点站
+2018-01-06 23:42:05,549 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:07,036 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMyMTQyNzkzNg%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:42:07,036 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F0sem4gd0wu1eekz.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:07,036 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrnpst1s.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:42:07,036 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F51395%2F640313.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:07,036 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F23031974.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:42:07,038 - __init__.py[line:46] - INFO: 七武士
+2018-01-06 23:42:07,040 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:08,055 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzQ3NzA5OTA0.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:42:08,055 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ftv.sohu.com%2F20090216%2Fn262268371.shtml&subtype=2&type=online-video
+2018-01-06 23:42:08,055 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F292429%2F3104174.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:08,056 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F3pivbj7bkp6zcr6.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:08,059 - __init__.py[line:46] - INFO: 岁月神偷
+2018-01-06 23:42:08,059 - __init__.py[line:46] - INFO: 海洋
+2018-01-06 23:42:08,062 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:09,045 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk1ql2g.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:42:09,046 - __init__.py[line:46] - INFO: 神偷奶爸
+2018-01-06 23:42:09,048 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:10,072 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Foylsefopm3zevpj.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:10,073 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rri0b9eg.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:10,075 - __init__.py[line:46] - INFO: 借东西的小人阿莉埃蒂
+2018-01-06 23:42:10,076 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:11,104 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho576c.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:11,105 - __init__.py[line:46] - INFO: 真爱至上
+2018-01-06 23:42:11,108 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:12,260 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrn6d30c.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:12,263 - __init__.py[line:46] - INFO: 杀人回忆
+2018-01-06 23:42:12,263 - __init__.py[line:46] - INFO: 电锯惊魂
+2018-01-06 23:42:12,265 - __init__.py[line:46] - INFO: 谍影重重3
+2018-01-06 23:42:12,266 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:13,476 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F9h8door60ma311n.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:13,476 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rri0x3r0.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:13,476 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNDIxMDQ1MzYw.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:42:13,476 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F8083%2F1752228.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:13,476 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F2031912.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:42:13,522 - connectionpool.py[line:214] - INFO: Starting new HTTP connection (1): movie.douban.com
+2018-01-06 23:42:13,614 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:14,769 - __init__.py[line:46] - INFO: 贫民窟的百万富翁
+2018-01-06 23:42:14,776 - __init__.py[line:46] - INFO: 雨人
+2018-01-06 23:42:14,779 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:16,078 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho3bfg.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:42:16,078 - __init__.py[line:46] - INFO: 小森林 夏秋篇
+2018-01-06 23:42:16,081 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:17,426 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fyz98ta4nfjtaa6q.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:17,427 - __init__.py[line:46] - INFO: 东邪西毒
+2018-01-06 23:42:17,430 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:18,642 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzA4MTQ3MzQyMA%3D%3D.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:42:18,642 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rr7qtak8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:18,644 - __init__.py[line:46] - INFO: 喜剧之王
+2018-01-06 23:42:18,647 - __init__.py[line:46] - INFO: 记忆碎片
+2018-01-06 23:42:18,651 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:19,595 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fg9026xzb9g0tqp9.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:19,595 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhul5po.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:19,595 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FPr9ibicGTKOnjbWcE.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:42:19,595 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F103542%2F1053765.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:19,595 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F20081068.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:42:19,595 - __init__.py[line:46] - INFO: 燃情岁月
+2018-01-06 23:42:19,598 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:20,698 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Flkgjgvnihnnxdwd.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:20,698 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk3xkes.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:20,698 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1505419.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:42:20,698 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNDM4NjAzODI4.html&subtype=3&type=online-video
+2018-01-06 23:42:20,698 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F156673%2F1709796.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:20,698 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F8384128.html&subtype=2&type=online-video
+2018-01-06 23:42:20,700 - __init__.py[line:46] - INFO: 喜宴
+2018-01-06 23:42:20,701 - __init__.py[line:46] - INFO: 怪兽电力公司
+2018-01-06 23:42:20,704 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:21,806 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTQxOTc2NzgyMA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:42:21,806 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho715k.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:21,806 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2Frg74dt5EtPJV0zs.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:42:21,806 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fh%2F109475.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:21,806 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fuehcx261b1aqs3t.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:21,808 - __init__.py[line:46] - INFO: 疯狂原始人
+2018-01-06 23:42:21,809 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:23,174 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fm4ry5h1naszjlzh.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:23,176 - __init__.py[line:46] - INFO: 虎口脱险
+2018-01-06 23:42:23,177 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:24,500 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008612.html&subtype=2&type=online-video
+2018-01-06 23:42:24,502 - __init__.py[line:46] - INFO: 黑天鹅
+2018-01-06 23:42:24,503 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:25,931 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Flemajha0cgcdfsx.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:25,933 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F22566369.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:42:25,933 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F108312%2F1115494.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:25,933 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjU0ODgyMDcy.html&subtype=3&type=online-video
+2018-01-06 23:42:25,933 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrh080oc.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:25,934 - __init__.py[line:46] - INFO: 卢旺达饭店
+2018-01-06 23:42:25,936 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:27,078 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzU3NTY5MDgw.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:42:27,079 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk0zwys.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:42:27,079 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.hunantv.com%2Fv%2F3%2F106839%2F&subtype=7&type=online-video&link2key=5c701c8c35
+2018-01-06 23:42:27,081 - __init__.py[line:46] - INFO: 英雄本色
+2018-01-06 23:42:27,084 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:28,493 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fr3m3bpm2cyjpf1e.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:28,493 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FWSIJhu5UxAJl40s.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:42:28,493 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk65luk.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:42:28,493 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F9284%2F1084318.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:28,494 - __init__.py[line:46] - INFO: 恋恋笔记本
+2018-01-06 23:42:28,496 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:29,976 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNzU1NjY1NzU2.html&subtype=3&type=online-video
+2018-01-06 23:42:29,976 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008715.html&subtype=2&type=online-video
+2018-01-06 23:42:29,976 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rraoba3w.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:29,976 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fcwzbvl00ztlmmh3.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:29,977 - __init__.py[line:46] - INFO: 猜火车
+2018-01-06 23:42:29,980 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:31,197 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F0acsv42yu5qvrz2.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:31,197 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F158448%2F1764682.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:31,198 - __init__.py[line:46] - INFO: 穿越时空的少女
+2018-01-06 23:42:31,200 - __init__.py[line:46] - INFO: 魂断蓝桥
+2018-01-06 23:42:31,200 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:32,262 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fdatmg11j1flxgiw.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:32,262 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FzENDwSmPicz2gHoY.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:42:32,262 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrll6i1w.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:32,262 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F241.html&subtype=2&type=online-video
+2018-01-06 23:42:32,263 - __init__.py[line:46] - INFO: 傲慢与偏见
+2018-01-06 23:42:32,265 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:33,571 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fdchep5ox42l26i9.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:33,571 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNTgwMzIxNDQw.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:42:33,571 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FbS6lIorwYJ4Bfibc.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:42:33,571 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F100784%2F1764690.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:33,572 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhxxnck.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:33,572 - __init__.py[line:46] - INFO: 雨中曲
+2018-01-06 23:42:33,573 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:34,720 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNzc0MjU5NDQ4.html&subtype=3&type=online-video
+2018-01-06 23:42:34,720 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2F4YR7ibWHHN3XYVr4.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:42:34,720 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F9062472.html&subtype=2&type=online-video
+2018-01-06 23:42:34,720 - __init__.py[line:46] - INFO: 教父3
+2018-01-06 23:42:34,723 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:36,104 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMyMzk1MTY4MA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:42:36,105 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F6751%2F1503307.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:36,105 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F9003729.html&subtype=2&type=online-video
+2018-01-06 23:42:36,105 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1948117.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:42:36,105 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fblfbj7c9g9zzts9.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:36,105 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk408h8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:36,105 - __init__.py[line:46] - INFO: 完美的世界
+2018-01-06 23:42:36,108 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:37,023 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F68m6s2drn3o4bjz.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:37,023 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1009039.html&subtype=2&type=online-video
+2018-01-06 23:42:37,023 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNTkyNDY5Mzg4.html&subtype=3&type=online-video
+2018-01-06 23:42:37,023 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrifthsc.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:37,023 - __init__.py[line:46] - INFO: 纵横四海
+2018-01-06 23:42:37,026 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:38,036 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fx7dra43dggxthim.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:38,036 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk69jj0.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:42:38,036 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1603826.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:42:38,036 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FyXJZ1j6kFFK1M5s.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:42:38,036 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F9283%2F328852.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:38,038 - __init__.py[line:46] - INFO: 玩具总动员3
+2018-01-06 23:42:38,039 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:39,177 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fcezngt65nqkg580.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:39,178 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F26893113.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:42:39,178 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrifm3np.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:39,178 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FpSUHhOxSwgBj4Uk.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:42:39,178 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTQxOTgwNDc0MA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:42:39,178 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F109576%2F1131420.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:39,180 - __init__.py[line:46] - INFO: 萤火之森
+2018-01-06 23:42:39,184 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:40,125 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F26829556.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:42:40,125 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fdongman%2F20120626%2Fece98897b70d6a00.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:42:40,170 - connectionpool.py[line:214] - INFO: Starting new HTTP connection (1): movie.douban.com
+2018-01-06 23:42:40,266 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:40,737 - __init__.py[line:46] - INFO: 7号房的礼物
+2018-01-06 23:42:40,739 - __init__.py[line:46] - INFO: 哈利·波特与死亡圣器(下)
+2018-01-06 23:42:40,742 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:42,473 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Feshodxofa7omesm.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:42,473 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rr9gh53c.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:42,473 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008653.html&subtype=2&type=online-video
+2018-01-06 23:42:42,473 - __init__.py[line:46] - INFO: 海边的曼彻斯特
+2018-01-06 23:42:42,476 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:44,082 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fiimh6ayb3nuzkrs.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:44,082 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F30094429.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:42:44,082 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzA4MDUyMjIwNA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:42:44,082 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rr72slwk.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:44,082 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F312057%2F3827065.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:44,084 - __init__.py[line:46] - INFO: 花样年华
+2018-01-06 23:42:44,085 - __init__.py[line:46] - INFO: 摔跤吧！爸爸
+2018-01-06 23:42:44,086 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:45,128 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMjg2NTM2ODU5Mg%3D%3D.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:42:45,128 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F2xxul4n2j8y0rxi.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:45,128 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rr80k1as.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:42:45,128 - __init__.py[line:46] - INFO: 荒蛮故事
+2018-01-06 23:42:45,131 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:46,954 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fjbj176n5lxqxcy7.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:46,956 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F26897260.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:42:46,956 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrnnp3lw.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:46,956 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2F18wTkPhezgxv7VU.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:42:46,956 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F306917%2F3769032.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:46,957 - __init__.py[line:46] - INFO: 二十二
+2018-01-06 23:42:46,959 - __init__.py[line:46] - INFO: 我是山姆
+2018-01-06 23:42:46,960 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:48,311 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fvox06nwx47wuy5t.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:48,311 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNzU1MDg4MzE2.html&subtype=3&type=online-video
+2018-01-06 23:42:48,311 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra63ny4.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:48,311 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008661.html&subtype=2&type=online-video
+2018-01-06 23:42:48,311 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F158671%2F1772273.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:48,312 - __init__.py[line:46] - INFO: 小森林 冬春篇
+2018-01-06 23:42:48,312 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:49,420 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F1o7ou00t80apgko.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:49,421 - __init__.py[line:46] - INFO: 人工智能
+2018-01-06 23:42:49,423 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:50,424 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fggl1e7h3s2w93fa.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:50,424 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrno1q60.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:50,424 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F110321%2F1141358.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:50,424 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1008703.html&subtype=2&type=online-video
+2018-01-06 23:42:50,424 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F23029066.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:42:50,424 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMyMzk3MDY1Ng%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:42:50,426 - __init__.py[line:46] - INFO: 浪潮
+2018-01-06 23:42:50,428 - __init__.py[line:46] - INFO: 冰川时代
+2018-01-06 23:42:50,430 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:51,911 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzMyMjgxNzU2.html&subtype=3&type=online-video
+2018-01-06 23:42:51,911 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk1k290.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:51,913 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F22531532.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:42:51,913 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fthrjyzyxu8wkgel.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:51,914 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F108440%2F1116945.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:51,914 - __init__.py[line:46] - INFO: 香水
+2018-01-06 23:42:51,915 - __init__.py[line:46] - INFO: 时空恋旅人
+2018-01-06 23:42:51,918 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:53,595 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhofld4.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:53,595 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F45462%2F1746078.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:53,595 - __init__.py[line:46] - INFO: 唐伯虎点秋香
+2018-01-06 23:42:53,596 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:54,696 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrlunup8.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:42:54,697 - __init__.py[line:46] - INFO: 朗读者
+2018-01-06 23:42:54,697 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:55,724 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhk107w.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:55,726 - __init__.py[line:46] - INFO: 超能陆战队
+2018-01-06 23:42:55,730 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:56,983 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XOTQxNTA1MTgw.html&subtype=3&type=online-video
+2018-01-06 23:42:56,983 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fhjdb95f8lxcyyew.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:56,983 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrntpmhg.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:56,983 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2Fe0EnpAxy4iaCDAWk.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:42:56,984 - __init__.py[line:46] - INFO: 追随
+2018-01-06 23:42:56,986 - __init__.py[line:46] - INFO: 心迷宫
+2018-01-06 23:42:56,987 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:57,984 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTQxMTcxNTM5Ng%3D%3D.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:42:57,984 - __init__.py[line:46] - INFO: 蝙蝠侠：黑暗骑士崛起
+2018-01-06 23:42:57,986 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:42:59,131 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F1b117d3s47s9rwx.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:42:59,131 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra0ffm8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:42:59,131 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNDgwNzE4NzQw.html&subtype=3&type=online-video
+2018-01-06 23:42:59,131 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F9810%2F349228.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:42:59,131 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F5041044.html&subtype=2&type=online-video
+2018-01-06 23:42:59,132 - __init__.py[line:46] - INFO: 撞车
+2018-01-06 23:42:59,134 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:00,134 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fusn93zzxuhn26xl.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:00,134 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fh%2F102549.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:00,134 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrh5aifc.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:43:00,134 - __init__.py[line:46] - INFO: 罗生门
+2018-01-06 23:43:00,137 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:01,180 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fghavn75ulwpjsqr.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:01,180 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2Fs5Ng30etHVuibPKQ.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:01,180 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ftv.sohu.com%2F20090121%2Fn261874509.shtml&subtype=2&type=online-video
+2018-01-06 23:43:01,180 - __init__.py[line:46] - INFO: 一次别离
+2018-01-06 23:43:01,184 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:02,211 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNTE5OTUyOTMy.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:02,211 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhoaaxw.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:43:02,213 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FKxTQT7cdjcsurBQ.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:02,213 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fyq76u9znklhx2y5.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:02,213 - __init__.py[line:46] - INFO: 战争之王
+2018-01-06 23:43:02,213 - __init__.py[line:46] - INFO: 可可西里
+2018-01-06 23:43:02,216 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:03,288 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fh4pahwz4acf6f5g.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:03,328 - connectionpool.py[line:214] - INFO: Starting new HTTP connection (1): movie.douban.com
+2018-01-06 23:43:03,395 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:03,878 - __init__.py[line:46] - INFO: 未麻的部屋
+2018-01-06 23:43:03,878 - __init__.py[line:46] - INFO: 梦之安魂曲
+2018-01-06 23:43:03,881 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:04,766 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fdianying%2F20120131%2F1b4ba4f7fe43040b.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:43:04,767 - __init__.py[line:46] - INFO: 爆裂鼓手
+2018-01-06 23:43:04,769 - __init__.py[line:46] - INFO: 地球上的星星
+2018-01-06 23:43:04,769 - __init__.py[line:46] - INFO: 恐怖游轮
+2018-01-06 23:43:04,772 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:05,851 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhk5qoc.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:05,852 - __init__.py[line:46] - INFO: 碧海蓝天
+2018-01-06 23:43:05,857 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:06,852 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho2bec.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:06,854 - __init__.py[line:46] - INFO: 达拉斯买家俱乐部
+2018-01-06 23:43:06,857 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:08,131 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Frp2fmb4gr8wcth6.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:08,131 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjc4OTY1NTYw.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:08,131 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrh5y3vg.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:43:08,131 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F20023295.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:43:08,132 - __init__.py[line:46] - INFO: 阿飞正传
+2018-01-06 23:43:08,134 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:09,170 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fa28x6dpmevb71g5.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:09,170 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhgemss.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:43:09,170 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F643698.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:43:09,171 - __init__.py[line:46] - INFO: 牯岭街少年杀人事件
+2018-01-06 23:43:09,171 - __init__.py[line:46] - INFO: 谍影重重2
+2018-01-06 23:43:09,173 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:10,359 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzUzMzM0OTMy.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:10,359 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F8082%2F1752189.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:10,361 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F2032365.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:10,361 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rri0xcps.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:10,361 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F3ra71k2p5igwg0o.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:10,361 - __init__.py[line:46] - INFO: 谍影重重
+2018-01-06 23:43:10,362 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:11,380 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Firm7k17d6svopo2.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:11,380 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rri0xf44.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:11,380 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F8846%2F1752244.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:11,380 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F2032338.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:11,380 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzUzMzQ0NDE2.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:11,381 - __init__.py[line:46] - INFO: 秒速5厘米
+2018-01-06 23:43:11,382 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:12,296 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra01rw8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:12,298 - __init__.py[line:46] - INFO: 被解救的姜戈
+2018-01-06 23:43:12,299 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:13,690 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjA0OTk3MDgw.html&subtype=3&type=online-video
+2018-01-06 23:43:13,691 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F1wf5y4h6afefyqj.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:13,691 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrfxajzs.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:13,691 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F7118413.html&subtype=2&type=online-video
+2018-01-06 23:43:13,693 - __init__.py[line:46] - INFO: 魔女宅急便
+2018-01-06 23:43:13,694 - __init__.py[line:46] - INFO: 海盗电台
+2018-01-06 23:43:13,694 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:14,673 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzY1MDY2NzUy.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:14,674 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F12083%2F1746106.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:14,674 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F2029611.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:14,674 - __init__.py[line:46] - INFO: 惊魂记
+2018-01-06 23:43:14,677 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:16,058 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fkjq5ifgszrcgrlq.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:16,059 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F9062442.html&subtype=2&type=online-video
+2018-01-06 23:43:16,059 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2Fs5dc20OpGVe6OKA.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:16,059 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho5bs8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:16,059 - __init__.py[line:46] - INFO: 再次出发之纽约遇见你
+2018-01-06 23:43:16,062 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:17,459 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTM0MTMyNTcyMA%3D%3D.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:17,460 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fipqywfdk64tfi1f.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:17,460 - __init__.py[line:46] - INFO: 青蛇
+2018-01-06 23:43:17,461 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:18,464 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrmy6f78.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:43:18,464 - __init__.py[line:46] - INFO: 东京物语
+2018-01-06 23:43:18,467 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:19,426 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzQ3NzAxMTcy.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:19,426 - __init__.py[line:46] - INFO: 绿里奇迹
+2018-01-06 23:43:19,428 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:20,487 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzU2MjYyMTg0.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:20,489 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhwqjjc.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:20,489 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F20988474.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:20,489 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F813ux41qxxzm8ku.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:20,490 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F42608%2F1761164.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:20,490 - __init__.py[line:46] - INFO: 忠犬八公物语
+2018-01-06 23:43:20,493 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:21,822 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fazrb39tto39w4je.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:21,822 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ftv.sohu.com%2F20120515%2Fn343254577.shtml&subtype=2&type=online-video
+2018-01-06 23:43:21,822 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk2wgkw.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:43:21,823 - __init__.py[line:46] - INFO: 末路狂花
+2018-01-06 23:43:21,825 - __init__.py[line:46] - INFO: 哪吒闹海
+2018-01-06 23:43:21,826 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:23,555 - __init__.py[line:24] - INFO: 腾讯视频javascript: void 0;
+2018-01-06 23:43:23,555 - __init__.py[line:24] - INFO: 哔哩哔哩javascript: void 0;
+2018-01-06 23:43:23,556 - __init__.py[line:46] - INFO: 勇闯夺命岛
+2018-01-06 23:43:23,559 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:24,717 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Finyzlpgh5mctnte.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:24,717 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjbb1gk.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:24,717 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FI5h7ibGDGNnTXVb0.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:24,717 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F291141%2F2959358.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:24,717 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjI3MzYwNzY4.html&subtype=3&type=online-video
+2018-01-06 23:43:24,717 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F21288143.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:24,719 - __init__.py[line:46] - INFO: 终结者2：审判日
+2018-01-06 23:43:24,760 - connectionpool.py[line:214] - INFO: Starting new HTTP connection (1): movie.douban.com
+2018-01-06 23:43:24,832 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:25,375 - __init__.py[line:46] - INFO: 迁徙的鸟
+2018-01-06 23:43:25,378 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:26,421 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FzdbLSbEXh8Uopg4.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:26,423 - __init__.py[line:46] - INFO: 卡萨布兰卡
+2018-01-06 23:43:26,424 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:27,388 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F77fvq6pegnj6mhk.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:27,388 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FkqadG4PpWZf6eOA.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:27,388 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrifkxvd.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:27,388 - __init__.py[line:46] - INFO: 荒野生存
+2018-01-06 23:43:27,391 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:28,244 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTY4ODEwNzA4OA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:43:28,244 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.hunantv.com%2Fv%2F3%2F51225%2F&subtype=7&type=online-video&link2key=dd7711b3d7
+2018-01-06 23:43:28,244 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrno0lss.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:28,244 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F22078067.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:28,244 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F4vle2tvyudfpaky.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:28,246 - __init__.py[line:46] - INFO: 这个男人来自地球
+2018-01-06 23:43:28,247 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:29,142 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNTg2OTc3OTgw.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:29,142 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhv5mco.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:29,142 - __init__.py[line:46] - INFO: 源代码
+2018-01-06 23:43:29,144 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:30,032 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhynlvs.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:43:30,032 - __init__.py[line:46] - INFO: 新龙门客栈
+2018-01-06 23:43:30,035 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:31,384 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho7h84.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:31,384 - __init__.py[line:46] - INFO: 变脸
+2018-01-06 23:43:31,388 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:32,358 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjI0NzQyMjk2.html&subtype=3&type=online-video
+2018-01-06 23:43:32,358 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fnykfsphl1j5gq52.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:32,358 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjbdix4.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:32,358 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FwTkcmwNp2Rd6ibGA.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:32,358 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F21205910.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:32,358 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F109474%2F1130306.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:32,359 - __init__.py[line:46] - INFO: 黑客帝国3：矩阵革命
+2018-01-06 23:43:32,362 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:33,460 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F5enw5bo1cod06jp.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:33,461 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra7m57s.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:33,461 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1007163.html&subtype=2&type=online-video
+2018-01-06 23:43:33,461 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F110226%2F1140665.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:33,463 - __init__.py[line:46] - INFO: 城市之光
+2018-01-06 23:43:33,464 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:34,296 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fb48c3tz58gusw8r.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:34,296 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FWx8Jhib9VxQNm5Ew.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:34,296 - __init__.py[line:46] - INFO: 燕尾蝶
+2018-01-06 23:43:34,298 - __init__.py[line:46] - INFO: E.T. 外星人
+2018-01-06 23:43:34,299 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:35,355 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzAxNzg5OTM2MA%3D%3D.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:35,355 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhxtxpw.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:35,355 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F2064419.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:35,355 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F158222%2F1757088.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:35,357 - __init__.py[line:46] - INFO: 黄金三镖客
+2018-01-06 23:43:35,358 - __init__.py[line:46] - INFO: 发条橙
+2018-01-06 23:43:35,358 - __init__.py[line:46] - INFO: 美国丽人
+2018-01-06 23:43:35,359 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:36,686 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMyNTY3MTM5Ng%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:43:36,686 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrg3ennw.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:36,686 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F9003337.html&subtype=2&type=online-video
+2018-01-06 23:43:36,686 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F0ax683u12gef5jw.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:36,687 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F106041%2F1503299.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:36,687 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1973120.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:36,687 - __init__.py[line:46] - INFO: 英国病人
+2018-01-06 23:43:36,690 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:38,026 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjAzOTczNzI0.html&subtype=3&type=online-video
+2018-01-06 23:43:38,026 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjr8tu0.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:38,026 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F7118916.html&subtype=2&type=online-video
+2018-01-06 23:43:38,026 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fbivj0zqs680mgf8.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:38,028 - __init__.py[line:46] - INFO: 头脑特工队
+2018-01-06 23:43:38,029 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:39,260 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F7m14vtdrrg3xr78.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:39,260 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F24139437.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:39,260 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrkcy5es.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:39,260 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTQwMzQ1OTQwMA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:43:39,260 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F156504%2F1863915.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:39,263 - __init__.py[line:46] - INFO: 模仿游戏
+2018-01-06 23:43:39,266 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:40,440 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTUyMTY4MzExMg%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:43:40,441 - __init__.py[line:46] - INFO: 无耻混蛋
+2018-01-06 23:43:40,444 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:41,726 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fl2iuen5z0eewcge.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:41,726 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzU2MjYzMjA4.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:41,726 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rri0as3c.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:41,727 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F2029801.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:41,727 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FAVsibvSWLibzmcGoI.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:41,727 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F158025%2F1750632.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:41,727 - __init__.py[line:46] - INFO: 初恋这件小事
+2018-01-06 23:43:41,730 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:42,743 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjajrzs.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:43:42,743 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1255974.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:43:42,744 - __init__.py[line:46] - INFO: 叫我第一名
+2018-01-06 23:43:42,746 - __init__.py[line:46] - INFO: 穆赫兰道
+2018-01-06 23:43:42,747 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:43,743 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNzMxODQ5MzEy.html&subtype=3&type=online-video
+2018-01-06 23:43:43,743 - __init__.py[line:46] - INFO: 非常嫌疑犯
+2018-01-06 23:43:43,744 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:44,688 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTY4ODE4NjUyNA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:43:44,688 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.hunantv.com%2Fv%2F3%2F53806%2F&subtype=7&type=online-video&link2key=d79007bfa9
+2018-01-06 23:43:44,688 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk3tu90.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:44,688 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F24505423.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:44,690 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fxeuiougzxak715v.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:44,690 - __init__.py[line:46] - INFO: 房间
+2018-01-06 23:43:44,691 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:46,013 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMjUyNTQ3Nzk4OA%3D%3D.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:46,013 - __init__.py[line:46] - INFO: 勇士
+2018-01-06 23:43:46,016 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:47,440 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjIxMTU3MjY4.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:47,440 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk918hs.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:47,441 - __init__.py[line:46] - INFO: 上帝也疯狂
+2018-01-06 23:43:47,480 - connectionpool.py[line:214] - INFO: Starting new HTTP connection (1): movie.douban.com
+2018-01-06 23:43:47,552 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:48,142 - __init__.py[line:46] - INFO: 爱在午夜降临前
+2018-01-06 23:43:48,213 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:50,805 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F20013073.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:43:50,806 - __init__.py[line:46] - INFO: 无敌破坏王
+2018-01-06 23:43:50,809 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:52,437 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjI5MTE3NTg0.html&subtype=3&type=online-video
+2018-01-06 23:43:52,437 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrlhk2fg.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:52,437 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FPUMdmwNp2Rd6ibGA.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:52,437 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fuywqg22df6ktfmn.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:52,437 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F109566%2F1131347.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:52,437 - __init__.py[line:46] - INFO: 蓝色大门
+2018-01-06 23:43:52,438 - __init__.py[line:46] - INFO: 国王的演讲
+2018-01-06 23:43:52,440 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:53,392 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F6cdesrgzozlt4u7.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:53,392 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjz3axc.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:43:53,392 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzY5NjM5NzQw.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:53,394 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FA0yZFn7kVJL1c9s.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:53,394 - __init__.py[line:46] - INFO: 疯狂的石头
+2018-01-06 23:43:53,394 - __init__.py[line:46] - INFO: 血钻
+2018-01-06 23:43:53,397 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:54,368 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzcyNjY5MTQw.html&subtype=3&type=online-video
+2018-01-06 23:43:54,368 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F5wx3ers3a6smgns.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:54,368 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F1000768.html&subtype=2&type=online-video
+2018-01-06 23:43:54,368 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F110081%2F1138967.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:54,368 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rra04q2k.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:54,369 - __init__.py[line:46] - INFO: 一个叫欧维的男人决定去死
+2018-01-06 23:43:54,371 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:55,391 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMjUyNjM5ODg2NA%3D%3D.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:55,391 - __init__.py[line:46] - INFO: 爱·回家
+2018-01-06 23:43:55,392 - __init__.py[line:46] - INFO: 枪火
+2018-01-06 23:43:55,394 - __init__.py[line:46] - INFO: 大卫·戈尔的一生
+2018-01-06 23:43:55,395 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:56,358 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fnqpwpurt95y1rwr.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:56,358 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzY1MjE1MTUy.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:56,358 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrhy4w5g.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:56,358 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2FmdQLiaPBWxgRn5U0.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:56,358 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F52402%2F660553.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:56,358 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F21065356.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:56,358 - __init__.py[line:46] - INFO: 步履不停
+2018-01-06 23:43:56,361 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:57,411 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMjkyMTkzMTA0MA%3D%3D.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:43:57,411 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F26324172.html%3Fch%3Ddouban_mf&subtype=6&type=online-video
+2018-01-06 23:43:57,411 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F9jlnyon2q8osmt1.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:57,411 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho7cok.html%3Fvfm%3Dm_331_dbdy&subtype=9&type=online-video
+2018-01-06 23:43:57,411 - __init__.py[line:46] - INFO: 千钧一发
+2018-01-06 23:43:57,414 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:58,552 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNDM4NjEwMzI4.html&subtype=3&type=online-video
+2018-01-06 23:43:58,552 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Ffqc9exx7n20bjuj.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:58,552 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk3zsaw.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:58,552 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F8388007.html&subtype=2&type=online-video
+2018-01-06 23:43:58,552 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2F5WxGxS2TA0GkIoo.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:43:58,552 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F294294%2F3288999.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:58,552 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1928178.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:43:58,553 - __init__.py[line:46] - INFO: 遗愿清单
+2018-01-06 23:43:58,555 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:43:59,696 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMjc0NDI5MTUy.html&subtype=3&type=online-video
+2018-01-06 23:43:59,696 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrjcjae8.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:43:59,696 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F150197%2F1503317.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:43:59,696 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Faoyweiuhnwo6ri0.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:43:59,697 - __init__.py[line:46] - INFO: 麦兜故事
+2018-01-06 23:43:59,697 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:44:00,528 - __init__.py[line:24] - INFO: 优酷视频javascript: void 0;
+2018-01-06 23:44:00,529 - __init__.py[line:46] - INFO: 暖暖内含光
+2018-01-06 23:44:00,530 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:44:02,257 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fa9vw29vsm00dgr4.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:44:02,259 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F20987880.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:44:02,259 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMzUzMzMzODE2.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:44:02,259 - __init__.py[line:46] - INFO: 荒岛余生
+2018-01-06 23:44:02,260 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:44:03,184 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F9uzc90pa9c4pm95.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:44:03,184 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrho7iv4.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:44:03,184 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTMyMzkyNzU5Ng%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:44:03,186 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F8768%2F1516456.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:44:03,186 - __init__.py[line:46] - INFO: 曾经
+2018-01-06 23:44:03,187 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:44:04,973 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrgcco6k.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:44:04,973 - __init__.py[line:46] - INFO: 彗星来的那一夜
+2018-01-06 23:44:04,974 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:44:06,473 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fcover%2Fh%2Fhyk5l84i5imw4e3.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:44:06,473 - __init__.py[line:46] - INFO: 无人知晓
+2018-01-06 23:44:06,474 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:44:07,882 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fztrkpnw1mdnc220.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:44:07,882 - __init__.py[line:24] - INFO: PP视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.pptv.com%2Fshow%2Fnagppg505CKFA2s.html%3Frcc_id%3Ddb_zxsp&subtype=10&type=online-video
+2018-01-06 23:44:07,884 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XODQ5OTg1ODMy.html%3Ftpa%3DdW5pb25faWQ9MTAzNTY1XzEwMDAwMV8wMV8wMQ&subtype=3&type=online-video
+2018-01-06 23:44:07,884 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrn77crw.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:44:07,884 - __init__.py[line:24] - INFO: 芒果 TVhttps://www.douban.com/link2/?url=http%3A%2F%2Fwww.mgtv.com%2Fb%2F104284%2F1065400.html%3Fcxid%3D94l62sj44&subtype=7&type=online-video
+2018-01-06 23:44:07,884 - __init__.py[line:46] - INFO: 我爱你
+2018-01-06 23:44:07,887 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:44:09,007 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F6yyurkhdbqna5px.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:44:09,009 - __init__.py[line:46] - INFO: 蝴蝶
+2018-01-06 23:44:09,009 - __init__.py[line:46] - INFO: 月球
+2018-01-06 23:44:09,012 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:44:10,207 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2F3vrgjjxmhv1xt0b.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:44:10,207 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrifx41d.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:44:10,207 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XMTQwNzMyNjcwMA%3D%3D.html&subtype=3&type=online-video
+2018-01-06 23:44:10,209 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F22107695.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
+2018-01-06 23:44:10,209 - __init__.py[line:24] - INFO: 搜狐视频https://www.douban.com/link2/?url=http%3A%2F%2Ffilm.sohu.com%2Falbum%2F8389740.html&subtype=2&type=online-video
+2018-01-06 23:44:10,210 - __init__.py[line:46] - INFO: 巴黎淘气帮
+2018-01-06 23:44:10,211 - __init__.py[line:46] - INFO: 与狼共舞
+2018-01-06 23:44:10,211 - __init__.py[line:46] - INFO: 偷拐抢骗
+2018-01-06 23:44:10,213 - connectionpool.py[line:805] - INFO: Starting new HTTPS connection (1): movie.douban.com
+2018-01-06 23:44:11,382 - __init__.py[line:24] - INFO: 优酷视频https://www.douban.com/link2/?url=http%3A%2F%2Fcps.youku.com%2Fredirect.html%3Fid%3D0000a213%26url%3Dhttp%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNDM4NTc3OTQ0.html&subtype=3&type=online-video
+2018-01-06 23:44:11,382 - __init__.py[line:24] - INFO: 腾讯视频https://www.douban.com/link2/?url=http%3A%2F%2Fv.qq.com%2Fx%2Fcover%2Fvguogsq561urz1s.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video
+2018-01-06 23:44:11,382 - __init__.py[line:24] - INFO: 爱奇艺视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrk3xw2c.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video
+2018-01-06 23:44:11,384 - __init__.py[line:24] - INFO: 乐视视频https://www.douban.com/link2/?url=http%3A%2F%2Fwww.le.com%2Fptv%2Fvplay%2F1942630.html%3Fch%3Ddouban_ffdy&subtype=6&type=online-video
